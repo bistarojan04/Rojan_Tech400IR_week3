@@ -1,0 +1,8 @@
+result AND u
+help AND dm
+u OR help
+thanks OR httpstcogdrqu22ypt
+NOT dm
+NOT httpstcogdrqu22ypt
+result AND u OR NOT help
+dm OR thanks AND NOT httpstcogdrqu22ypt

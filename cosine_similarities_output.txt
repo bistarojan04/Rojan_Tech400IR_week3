@@ -1,0 +1,50 @@
+
+Cosine similarities for query 'customer complaint about iOS update':
+Document 1: nan
+Document 2: nan
+Document 3: nan
+
+Cosine similarities for query 'how to fix battery issues after update':
+Document 1: nan
+Document 2: nan
+Document 3: nan
+
+Cosine similarities for query 'Wi-Fi disconnecting frequently after software update':
+Document 1: nan
+Document 2: nan
+Document 3: nan
+
+Cosine similarities for query 'customer support response about internet outage':
+Document 1: nan
+Document 2: nan
+Document 3: nan
+
+Cosine similarities for query 'MacBook performance issues after update':
+Document 1: nan
+Document 2: nan
+Document 3: nan
+
+Cosine similarities for query 'streaming issue troubleshooting with smart TV':
+Document 1: nan
+Document 2: nan
+Document 3: nan
+
+Cosine similarities for query 'Bluetooth speaker connection problems with Android':
+Document 1: nan
+Document 2: nan
+Document 3: nan
+
+Cosine similarities for query 'delayed flight status update':
+Document 1: nan
+Document 2: nan
+Document 3: nan
+
+Cosine similarities for query 'Spotify playback issue on MacBook':
+Document 1: nan
+Document 2: nan
+Document 3: nan
+
+Cosine similarities for query 'frequent app crashes after iOS update':
+Document 1: nan
+Document 2: nan
+Document 3: nan
